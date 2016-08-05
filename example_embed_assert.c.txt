@@ -46,8 +46,8 @@ SOFTWARE.
 //
 
 #include <xc.h>
-#include "embed_assert/embed_assert.h"
-#include "utility_macros/utility_macros.h"
+#include "embed_assert.h"
+#include "utility_macros.h"
 
 //
 // Section: Constants
